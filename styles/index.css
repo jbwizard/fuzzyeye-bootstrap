@@ -103,6 +103,7 @@ a:hover{
 .homepage-img{
     width: 100%;
     max-width: 1920px;
+    min-height: 100vh;
     background-image: url(/images/homepage.jpg);
     margin-bottom: 50px;
 }
