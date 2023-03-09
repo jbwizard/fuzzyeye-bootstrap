@@ -1,0 +1,87 @@
+body{
+    font-family: 'Inter';
+    font-style: normal;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 58px;
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #000000;
+    text-transform: uppercase;
+}
+
+h4{
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    color: #000000;
+    text-transform: uppercase;
+}
+
+h5{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1.6px;
+    color: #000000;
+    text-transform: uppercase;
+
+}
+
+p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1.6px;
+    color: #000000;
+}
+
+a{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    text-transform: uppercase;
+    color:white
+}
+
+a:hover{
+    color: #EB6F15;
+
+}
+
+.navbar{
+    background: black;
+}
+
+.dropdown-menu{
+    background: black;
+    border: none;
+}
+
+.dropdown-item{
+    color: white;
+    text-transform: none;
+}
+
+.dropdown-item:hover{
+    background: #EB6F15;
+}
