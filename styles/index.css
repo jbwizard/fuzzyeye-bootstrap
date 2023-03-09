@@ -113,3 +113,8 @@ a:hover{
 .overlay:hover{
     opacity: 70%;
 }
+
+.section-one{
+    width: 100%;
+    min-height: 100vh;
+}
