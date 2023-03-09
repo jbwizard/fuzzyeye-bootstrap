@@ -128,3 +128,35 @@ a:hover{
     width: 100%;
     height: 500px;
 }
+
+.placeholder{
+    border: 1px solid black;
+    margin-right: 10px;
+}
+
+.btn-primary{
+    background: #EB6F15;
+    border: 1px black solid;
+    border-radius: 0;
+    color: black;
+}
+
+.btn-primary:hover{
+    background: black;
+    color: #EB6F15;
+}
+
+.logo{
+    font-weight:700;
+    letter-spacing: 10px;
+    color: #EB6F15;
+    margin-right: 40px;
+    margin-left: 20px;
+
+}
+
+footer{
+    background: black;
+    width: 100%;
+    height: 200px;
+}
