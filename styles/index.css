@@ -132,7 +132,7 @@ a:hover{
     border: 1px solid black;
     margin-right: 10px;
     width: 100%;
-    min-width: 200px;
+    max-width: 500px;
 }
 
 .btn-primary{
@@ -183,6 +183,7 @@ footer{
         justify-content: flex-start;
         padding-left: 0;
     }
+
 
     }
 
